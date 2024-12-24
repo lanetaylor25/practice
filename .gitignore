@@ -1,0 +1,62 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
+
+# pytest
+.cache/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+
+# Coverage reports
+.coverage
+.coverage.*
+*.hypothesis/
+
+# Sphinx documentation
+_docs/_build/
+
+# pytest, coverage, and other test-related files
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Other files you might want to exclude:
+*.log
+*.bak
+*.swp
